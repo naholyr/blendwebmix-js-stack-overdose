@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/naholyr/blendwebmix-js-stack-overdose/issues"
   },
-  "homepage": "https://github.com/naholyr/blendwebmix-js-stack-overdose#readme"
+  "homepage": "https://github.com/naholyr/blendwebmix-js-stack-overdose#readme",
+  "dependencies": {
+    "prez": "^4.4.0"
+  }
 }
