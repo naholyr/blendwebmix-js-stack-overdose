@@ -1,1 +1,13 @@
 /* custom styles can go here */
+body {
+  background: white;
+  background-image: url(../images/byteclub.png);
+  background-position: 0 calc(100% - 3px);
+  background-repeat: no-repeat;
+  background-size: 200px;
+}
+
+.reveal pre code {
+  background: #f9f9f9;
+  color: initial;
+}

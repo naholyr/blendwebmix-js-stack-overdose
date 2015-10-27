@@ -119,6 +119,5 @@ On tend à vouloir améliorer/optimiser chaque tâche
   * Pour la veille : rapport "nouveauté du paradigme" * "clarté de la documentation"
   * Pour les outils : rapport "service" / "complexité"
   * De manière générale : rapport "amélioration du quotidien" / "complexité"
-  * Tiens, où est la variable "nouvelles fonctionnalités" ?
 * Ne perdez pas votre temps à tout explorer !
 * Ne culpabilisez pas !
