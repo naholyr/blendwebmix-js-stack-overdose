@@ -5,6 +5,7 @@
 * Angular
 * React
 * Backbone
+* Ember
 * Ionic
 * Polymer
 * …
