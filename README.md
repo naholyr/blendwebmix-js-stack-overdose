@@ -85,3 +85,40 @@ On tend à vouloir améliorer/optimiser chaque tâche
 * Simplification : limiter la quantité d'outils, éviter de trop mixer les technologies (Ruby + Python + Node + Java + .... Aaaaaaaargl)
 * Pragmatisme : ces outils sont souvent bons et très souvent utiles, mais pas dans tous les contextes/projets/équipes
 * C'était mieux avant ? non, c'était moins bien, mais ça marchait quand-même
+
+## Plan
+
+* Constat web dev : beaucoup d'outils, trop ?
+* C'était mieux avant ?
+  * FTP vs. push to deploy
+  * Git vs. zips par mail
+  * Plutôt des améliorations, mais est-ce vrai côté JS ?
+* Et côté JavaScript ?
+  * Librairies
+    * jQuery / Zepto
+    * Moment
+    * Lodash / Underscore
+    * D'autres ?
+  * Frameworks
+    * AngularJS
+    * ReactJS
+    * RxJS
+    * Backbone
+    * Ember
+    * D'autres ?
+  * Outils de dév
+    * Package manager : Bower / JSPM / Component / npm
+    * Task runner : Gulp / Grunt / npm
+    * Transformation : Babel / Uglify
+    * D'autres ?
+  * Time to clean up!
+* On se noie dans un verre d'eau ?
+  * Librairies / Frameworks : choix dépend du projet, du moment
+  * Outils de dév : arrêter l'empilement, retour aux basiques efficaces !
+* De nouvelles métriques
+  * Pour la veille : rapport "nouveauté du paradigme" * "clarté de la documentation"
+  * Pour les outils : rapport "service" / "complexité"
+  * De manière générale : rapport "amélioration du quotidien" / "complexité"
+  * Tiens, où est la variable "nouvelles fonctionnalités" ?
+* Ne perdez pas votre temps à tout explorer !
+* Ne culpabilisez pas !
