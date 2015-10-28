@@ -8,6 +8,8 @@
 
 ![](images/hawking.gif)
 
+**INFO: pressez 's' pour voir les notes**
+
 Note:
 
 Une nouvelle brique doit **améliorer mon quotidien de développeur**.

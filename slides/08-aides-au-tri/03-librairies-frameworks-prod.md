@@ -10,6 +10,8 @@ Cette brique apporte-t-elle une valeur à mon projet ?
 
 **``popularité`` × ``reprenabilité``**
 
+**INFO: pressez 's' pour voir les notes**
+
 Note:
 
 Là on doit creuser, on va choisir sur des spécificités entre solutions peut-être proches, le "service rendu" entre en ligne de compte.

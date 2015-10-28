@@ -14,6 +14,8 @@ Dois-je consacrer du temps à cette brique ?
 * React / Riotjs
 * RxJs / BaconJs
 
+**INFO: pressez 's' pour voir les notes**
+
 Note:
 
 Pas la peine de perdre du temps à explorer de fond en comble toutes les nouveautés.

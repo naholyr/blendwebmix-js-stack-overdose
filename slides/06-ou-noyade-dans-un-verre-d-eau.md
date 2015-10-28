@@ -4,6 +4,8 @@
 
 … ou alors c'est juste qu'on ne sait pas s'organiser ?
 
+**INFO: pressez 's' pour voir les notes**
+
 Note:
 
 * [TodoMVC](http://todomvc.com/)
