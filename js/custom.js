@@ -6,3 +6,8 @@ Reveal.configure({
   "transition": "none",
   "progress": true
 });
+
+// Remove walrus from notes
+if (window.frameElement) {
+  document.body.classList.add('no-walrus');
+}
